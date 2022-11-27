@@ -1,5 +1,15 @@
 # Binary-English-Translator
 Translate English into binary, or translate binary into English
-> **This code was inspired by _NeuralNine_, go check out his channel:** https://www.youtube.com/@NeuralNine
+> **This code was inspired by _NeuralNine_, go check out his _YouTube_ channel:** https://www.youtube.com/@NeuralNine **and _GitHub_:** https://github.com/NeuralNine
 ### Execute
-To execute the code, enter into the folder "translator" before you do
+To execute the code, have **_Python_** installed to run in the **Command Prompt (cmd)**.
+
+**_Windows_**
+```
+py main.py
+```
+
+**_Mac_ & Linux**
+```
+python main.py
+```
