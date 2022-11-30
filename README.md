@@ -9,7 +9,7 @@ To execute the code, have **_Python_** installed to run in the **Command Prompt 
 py main.py
 ```
 
-**_Mac_ & Linux**
+**_Mac_ & _Linux_**
 ```
 python main.py
 ```
